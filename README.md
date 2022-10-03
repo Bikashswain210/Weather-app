@@ -10,6 +10,7 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Weather Radar & Rain maps
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=C:\Users\lenovo\Pictures\Screenshots)
+![App Screenshot]
+![Screenshot (2)](https://user-images.githubusercontent.com/113992862/193511814-24342f18-4b82-4ede-b13d-9ced928f5122.png)
 
 
